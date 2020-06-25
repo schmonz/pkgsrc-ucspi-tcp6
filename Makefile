@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.22 2020/03/30 08:03:57 schmonz Exp $
+# $NetBSD: Makefile,v 1.24 2020/06/25 05:42:36 schmonz Exp $
 
 DISTNAME=		ucspi-tcp6-1.11.4
 CATEGORIES=		net
